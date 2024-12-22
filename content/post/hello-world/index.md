@@ -2,7 +2,7 @@
 title: Hello World
 description: Welcome to The Revolution
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2024-12-22 00:00:00+0000
 image: cover.jpg
 categories:
     - Welcome-Posts
