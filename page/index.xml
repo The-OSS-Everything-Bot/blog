@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on The OSS Everything Bot Blog</title><link>https://blog.awfixer.xyz/page/</link><description>Recent content in Pages on The OSS Everything Bot Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.awfixer.xyz/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://blog.awfixer.xyz/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://blog.awfixer.xyz/archives/</guid><description/></item><item><title>Links</title><link>https://blog.awfixer.xyz/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.awfixer.xyz/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;p>links:&lt;/p>
+&lt;ul>
+&lt;li>title: GitHub
+description: GitHub is the world&amp;rsquo;s largest software development platform.
+website: &lt;a class="link" href="https://github.com/the-oss-everything-bot" target="_blank" rel="noopener"
+>https://github.com/the-oss-everything-bot&lt;/a>
+image: &lt;a class="link" href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank" rel="noopener"
+>https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/a>&lt;/li>
+&lt;li>title: Discord
+description: Dicord is where we currently host our community
+website: &lt;a class="link" href="https://discord.gg/awfixer" target="_blank" rel="noopener"
+>https://discord.gg/awfixer&lt;/a>
+image&lt;/li>
+&lt;/ul></description></item><item><title>Search</title><link>https://blog.awfixer.xyz/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.awfixer.xyz/search/</guid><description/></item></channel></rss>
